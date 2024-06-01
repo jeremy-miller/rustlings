@@ -1,2 +1,3 @@
-# rustlings
-Solutions to the Rustlings exercises
+# Rustlings
+
+Solutions to the [Rustlings](https://rustlings.cool/) exercises.
